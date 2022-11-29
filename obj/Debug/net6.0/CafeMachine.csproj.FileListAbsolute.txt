@@ -1,0 +1,30 @@
+C:\Users\moise\Documents\CafeMachine\bin\Debug\net6.0\CafeMachine.exe
+C:\Users\moise\Documents\CafeMachine\bin\Debug\net6.0\CafeMachine.deps.json
+C:\Users\moise\Documents\CafeMachine\bin\Debug\net6.0\CafeMachine.runtimeconfig.json
+C:\Users\moise\Documents\CafeMachine\bin\Debug\net6.0\CafeMachine.dll
+C:\Users\moise\Documents\CafeMachine\bin\Debug\net6.0\CafeMachine.pdb
+C:\Users\moise\Documents\CafeMachine\obj\Debug\net6.0\CafeMachine.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\CafeMachine\obj\Debug\net6.0\CafeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\Documents\CafeMachine\obj\Debug\net6.0\CafeMachine.AssemblyInfoInputs.cache
+C:\Users\moise\Documents\CafeMachine\obj\Debug\net6.0\CafeMachine.AssemblyInfo.cs
+C:\Users\moise\Documents\CafeMachine\obj\Debug\net6.0\CafeMachine.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\CafeMachine\obj\Debug\net6.0\CafeMachine.dll
+C:\Users\moise\Documents\CafeMachine\obj\Debug\net6.0\refint\CafeMachine.dll
+C:\Users\moise\Documents\CafeMachine\obj\Debug\net6.0\CafeMachine.pdb
+C:\Users\moise\Documents\CafeMachine\obj\Debug\net6.0\CafeMachine.genruntimeconfig.cache
+C:\Users\moise\Documents\CafeMachine\obj\Debug\net6.0\ref\CafeMachine.dll
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\bin\Debug\net6.0\CafeMachine.exe
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\bin\Debug\net6.0\CafeMachine.deps.json
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\bin\Debug\net6.0\CafeMachine.runtimeconfig.json
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\bin\Debug\net6.0\CafeMachine.dll
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\bin\Debug\net6.0\CafeMachine.pdb
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\obj\Debug\net6.0\CafeMachine.csproj.AssemblyReference.cache
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\obj\Debug\net6.0\CafeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\obj\Debug\net6.0\CafeMachine.AssemblyInfoInputs.cache
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\obj\Debug\net6.0\CafeMachine.AssemblyInfo.cs
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\obj\Debug\net6.0\CafeMachine.csproj.CoreCompileInputs.cache
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\obj\Debug\net6.0\CafeMachine.dll
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\obj\Debug\net6.0\refint\CafeMachine.dll
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\obj\Debug\net6.0\CafeMachine.pdb
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\obj\Debug\net6.0\CafeMachine.genruntimeconfig.cache
+C:\Users\perey\OneDrive\Documentos\Itla\7mo\Administracion de Proyectos de software\Cafe-Machine\obj\Debug\net6.0\ref\CafeMachine.dll
